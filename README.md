@@ -32,4 +32,9 @@ Thanks so much for reading! Feel free to take a look around!
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Hammond&timezone=EST)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
