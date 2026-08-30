@@ -30,3 +30,6 @@ Thanks so much for reading! Feel free to take a look around!
 <a href="https://www.github.com/Ali-Hammond" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Ali-Hammond?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Hammond&timezone=EST)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
