@@ -34,11 +34,11 @@ Thanks so much for reading! Feel free to take a look around!
 <!--START_SECTION:waka-->
 
 ```txt
-Python       13 hrs 19 mins        ████████████████████░░░░░   79.54 %
-HTML         3 hrs 8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
-JavaScript   11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Other        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python       7 hrs 45 mins         █████████████████▒░░░░░░░   69.42 %
+HTML         3 hrs 8 mins          ███████░░░░░░░░░░░░░░░░░░   28.03 %
+JavaScript   11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Other        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Bash         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
