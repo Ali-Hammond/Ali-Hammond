@@ -34,7 +34,10 @@ Thanks so much for reading! Feel free to take a look around!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSS      1 hr 36 mins          ██████████████████████░░░   88.01 %
+Python   11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Astro    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Bash     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
