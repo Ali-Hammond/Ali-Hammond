@@ -34,8 +34,11 @@ Thanks so much for reading! Feel free to take a look around!
 <!--START_SECTION:waka-->
 
 ```txt
-C++    5 hrs 8 mins          ████████████████████████▓   99.33 %
-JSON   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+C++          5 hrs 8 mins          █████████████████░░░░░░░░   68.18 %
+Python       1 hr 13 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+CSS          25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+JavaScript   24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Astro        14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
