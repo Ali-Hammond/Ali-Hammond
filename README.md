@@ -34,11 +34,11 @@ Thanks so much for reading! Feel free to take a look around!
 <!--START_SECTION:waka-->
 
 ```txt
-Python                             2 hrs 14 mins         ████████▓░░░░░░░░░░░░░░░░   34.53 %
-JavaScript                         1 hr 24 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
-Astro                              59 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Bash                               54 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-CSS                                34 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Python                             58 mins               ██████████░░░░░░░░░░░░░░░   40.10 %
+Bash                               32 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+JavaScript                         32 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+JSON                               7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Microsoft Visual Studio Solution   5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
