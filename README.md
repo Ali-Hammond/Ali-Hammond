@@ -12,7 +12,7 @@ I got into this because I love the feeling of hitting keys on a keyboard and wat
 Thanks so much for reading! Feel free to take a look around!
 
 *   🌍  I'm based in Indiana, USA
-*   🖥️  See my portfolio at [my website](http://whitestatic.dev)
+*   🖥️  See my work on [my website](http://whitestatic.dev)
 *   ✉️  You can contact me at [alihammond121@gmail.com](mailto:alihammond121@gmail.com)
 *   🚀  I'm currently working on [Pulse (Discord Bot)](http://pulsebot.xyz)
 *   🧠  I'm currently learning how to fix my sleep schedule 😭
@@ -38,3 +38,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+### Pulse (Discord Bot) Stats
+
+[![Discord Bots](https://top.gg/api/widget/1421464222092628028.svg)](https://top.gg/bot/1421464222092628028)
