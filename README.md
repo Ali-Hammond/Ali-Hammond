@@ -34,7 +34,9 @@ Thanks so much for reading! Feel free to take a look around!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       51 mins               ███████████████████████▒░   93.12 %
+Astro        3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
