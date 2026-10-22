@@ -24,7 +24,7 @@ Thanks so much for reading! Feel free to take a look around!
 Check out some of the core projects I have created!
 * [ConvertKit](https://whitestatic.dev/projects) - Convert images and audio files between formats, one at a time or in batches. Files stay on your computer. (Linux/Windows)
 * [SpectroHide](https://whitestatic.dev/projects) - Hide text in an audio file's spectrogram. Set the frequency range and other options, then save your settings as profiles. (Linux/Windows)
-* [Coming Soon] [SKV (Simple Keyboard Viewer)](https://whitestatic.dev/projects) - A simple way to track keyboard key presses or mouse movements. (Linux)
+* [Coming Soon] [SKV (Simple Keyboard Viewer)](https://whitestatic.dev/projects) - A simple way to track keyboard key presses or mouse movements, with default layouts and the ability to create custom layouts. (Linux)
 
 ------------------
 
