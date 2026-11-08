@@ -48,11 +48,11 @@ Check out some of the core projects I have created!
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 31 mins         ████████████████████░░░░░   79.60 %
-HTML         15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-JavaScript   13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Markdown     8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Astro        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Python       2 hrs 27 mins         ████████████▓░░░░░░░░░░░░   50.73 %
+YAML         1 hr 13 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+JavaScript   19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+HTML         17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Markdown     11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
