@@ -25,6 +25,7 @@ Check out some of the core projects I have created!
 * [ConvertKit](https://whitestatic.dev/projects) - Convert images and audio files between formats, one at a time or in batches. Files stay on your computer. (Linux/Windows)
 * [SpectroHide](https://whitestatic.dev/projects) - Hide text in an audio file's spectrogram. Set the frequency range and other options, then save your settings as profiles. (Linux/Windows)
 * [SKV (Simple Keyboard Viewer)](https://whitestatic.dev/projects) - A simple way to track keyboard key presses or mouse movements, with default layouts and the ability to create custom layouts. (Linux)
+* [OSU Skill Tracker](https://github.com/Ali-Hammond/OSU-Skill-Tracker-Linux-Releases) - A tracker for OSU for miss counts, accuracy, score, max combo, and more. All to help you keep track of your plays, see improvement, see if your global audio offset needs to be adjusted, exporting/sharing your map breakdowns, or whatever you need with your hit data. (Linux) [Not Released]
 
 ------------------
 
